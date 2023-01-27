@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../final/09-Omnifood-Optimizations/img"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "07-Omnifood-Desktop"
+	}
+}
